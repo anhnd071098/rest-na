@@ -29,4 +29,5 @@ public class UserEntity {
     private String address;
     @Column(nullable = false)
     private Date dateCreated;
+
 }
